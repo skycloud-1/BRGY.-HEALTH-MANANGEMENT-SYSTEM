@@ -84,7 +84,7 @@
             // 
             // login_signupBtn
             // 
-            this.login_signupBtn.BackColor = System.Drawing.Color.Navy;
+            this.login_signupBtn.BackColor = System.Drawing.Color.DarkBlue;
             this.login_signupBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.login_signupBtn.FlatAppearance.BorderSize = 0;
             this.login_signupBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Green;
