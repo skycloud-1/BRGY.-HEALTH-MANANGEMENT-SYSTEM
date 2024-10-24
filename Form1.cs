@@ -33,5 +33,10 @@ namespace BRGY.HEALTH_MANAGEMENT_SYSTEM_WINDOWSAPP
             RegForm.Show();
             this.Hide();
         }
+
+        private void login_btn_Click(object sender, EventArgs e)
+        {
+            //LogIN here
+        }
     }
 }
